@@ -40,7 +40,7 @@
 - `Logistic Regression`
 - `Random Forest`
 - `XG Boost`
-- `k-nearest neighbors `
+- `k-nearest neighbors`
 - `Support Vector Machine`
 - `Gradient Boosting`
 
@@ -48,6 +48,7 @@
 - **We began by gaining an understanding of the data, performing data wrangling, and conducting basic exploratory data analysis. During this phase, we identified relationships and trends between the price range and other independent variables..**
 -  **To determine the most effective features for predictive modeling, we utilized the K-best feature selection method with Chi-square statistic.**
 -  **In line with our primary goal of predicting the mobile price range, we identified Logistic Regression and Support Vector Machine as the top-performing models among the various models tested, which included Decision Tree, Gradient Boosting, K-Nearest Neighbors, Random Forest, and XGBoost.**
-
+- **Out of the models we tested on our dataset, the K-Nearest Neighbors model was found to be the least effective performer.**
+- **We assessed the feature importance of each model and found that RAM, battery power, px_height, and px_width were the most significant contributors in predicting the price range.**
 
 
