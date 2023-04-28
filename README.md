@@ -36,9 +36,6 @@
 # Target Variable :
 - **`Price_range:`**  This is the target variable with value of 0(low cost), 1(medium cost),2(high cost) and 3(very high cost).
 
-# Conclusion :-
-**We began by gaining an understanding of the data, performing data wrangling, and conducting basic exploratory data analysis. During this phase, we identified relationships and trends between the price range and other independent variables..**
-
 # Algorithms used for ML model implementation :-
 - `Logistic Regression`
 - `Random Forest`
@@ -46,6 +43,11 @@
 - `k-nearest neighbors `
 - `Support Vector Machine`
 - `Gradient Boosting`
+
+# Conclusion :-
+- **We began by gaining an understanding of the data, performing data wrangling, and conducting basic exploratory data analysis. During this phase, we identified relationships and trends between the price range and other independent variables..**
+-  **To determine the most effective features for predictive modeling, we utilized the K-best feature selection method with Chi-square statistic.**
+-  **In line with our primary goal of predicting the mobile price range, we identified Logistic Regression and Support Vector Machine as the top-performing models among the various models tested, which included Decision Tree, Gradient Boosting, K-Nearest Neighbors, Random Forest, and XGBoost.**
 
 
 
