@@ -29,7 +29,7 @@
 - **`Wifi:`  Has wifi or not**
 - **`Sc_h:`  Screen Height of mobile in cm**
 - **`Sc_w:`  Screen Width of mobile in cm**
-- **`Talk_time:`  longest time that a single battery charge will last when you are**
+- **`Talk_time:`  longest time that a single battery charge will last when you are not**
 - **`Three_g:`  Has 3G or not**
 - **`Wifi:`  Has wifi or not**
 
